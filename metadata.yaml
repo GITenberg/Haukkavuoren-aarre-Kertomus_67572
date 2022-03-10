@@ -1,11 +1,16 @@
 _repo: Haukkavuoren-aarre-Kertomus_67572
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parmanen, Eino I.
     gutenberg_agent_id: '54338'
     url: http://www.gutenberg.org/2009/agents/54338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67572#Haukkavuoren-aarre-Kertomus
 gutenberg_issued: '2022-03-06'
 identifiers:
   gutenberg: '67572'
